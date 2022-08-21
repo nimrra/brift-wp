@@ -1,0 +1,410 @@
+0000.001 (0) Opened log file at time: Wed, 29 Jun 2022 12:33:22 +0000 on http://brift-consulting.local
+0000.007 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.22.12.25 WP: 6.0 PHP: 7.4.1 (cgi-fcgi, Windows NT DESKTOP-NR43NEU 10.0 build 19044 (Windows 10) AMD64) MySQL: 8.0.16 (max packet size=16777216) WPLANG: en_US Server: nginx/1.16.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 13M | 2M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.012 (0) Free space on disk containing Updraft's temporary directory: 376033.1 MB
+0000.020 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.038 (0) Semaphore (fd, wp_options) being initialised
+0000.051 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.063 (0) Set semaphore last lock (fd) time to 2022-06-29 12:33:22
+0000.068 (0) Semaphore lock (fd) complete
+0000.083 (0) Backup run: resumption=0, nonce=19bf3049141d, file_nonce=19bf3049141d begun at=1656506002 (0s ago), job type=backup
+0000.092 (0) Scheduling a resumption (1) after 300 seconds (1656506302) in case this run gets aborted
+0000.125 (0) Checking if we have a zip executable available
+0000.134 (0) Creation of backups of directories: beginning
+0000.151 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0005.099 (0) Total entities for the zip file: 1460 directories, 8400 files (0 skipped as non-modified), 124.3 MB
+0005.197 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0007.419 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 100 files added (on-disk size: 263.3 KB)
+0007.847 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 111 (112) files added so far); re-opening (prior size: 263.3 KB)
+0008.537 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 200 files added (on-disk size: 517.2 KB)
+0009.848 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 300 files added (on-disk size: 517.2 KB)
+0010.849 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (16.3 MB, 227 (339) files added so far); re-opening (prior size: 517.2 KB)
+0012.573 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 400 files added (on-disk size: 3720.5 KB)
+0013.593 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 500 files added (on-disk size: 3720.5 KB)
+0014.852 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (9.7 MB, 254 (593) files added so far); re-opening (prior size: 3720.5 KB)
+0016.060 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 600 files added (on-disk size: 7538.9 KB)
+0017.619 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 700 files added (on-disk size: 7538.9 KB)
+0018.854 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 179 (772) files added so far); re-opening (prior size: 7538.9 KB)
+0019.582 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 800 files added (on-disk size: 7815.6 KB)
+0021.847 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 114 (886) files added so far); re-opening (prior size: 7815.6 KB)
+0022.235 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 900 files added (on-disk size: 8105.7 KB)
+0023.196 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 1000 files added (on-disk size: 8105.7 KB)
+0023.870 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 1100 files added (on-disk size: 8105.7 KB)
+0024.567 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 1200 files added (on-disk size: 8105.7 KB)
+0024.845 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.4 MB, 356 (1242) files added so far); re-opening (prior size: 8105.7 KB)
+0025.662 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 1300 files added (on-disk size: 8957.5 KB)
+0026.323 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 1400 files added (on-disk size: 8957.5 KB)
+0026.938 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 1500 files added (on-disk size: 8957.5 KB)
+0027.549 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 1600 files added (on-disk size: 8957.5 KB)
+0027.847 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (8.7 MB, 404 (1646) files added so far); re-opening (prior size: 8957.5 KB)
+0028.747 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 1700 files added (on-disk size: 9941.4 KB)
+0029.390 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 1800 files added (on-disk size: 9941.4 KB)
+0030.857 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (12 MB, 253 (1899) files added so far); re-opening (prior size: 9941.4 KB)
+0031.744 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 1900 files added (on-disk size: 11633.2 KB)
+0033.287 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 2000 files added (on-disk size: 11633.2 KB)
+0033.846 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.6 MB, 159 (2058) files added so far); re-opening (prior size: 11633.2 KB)
+0035.338 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 2100 files added (on-disk size: 12658.5 KB)
+0036.695 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 2200 files added (on-disk size: 12658.5 KB)
+0036.854 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 149 (2207) files added so far); re-opening (prior size: 12658.5 KB)
+0039.092 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 2300 files added (on-disk size: 12873.8 KB)
+0039.851 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 133 (2340) files added so far); re-opening (prior size: 12873.8 KB)
+0041.677 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 2400 files added (on-disk size: 13121.1 KB)
+0042.859 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 112 (2452) files added so far); re-opening (prior size: 13121.1 KB)
+0044.519 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 2500 files added (on-disk size: 13288.8 KB)
+0045.446 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 2600 files added (on-disk size: 13288.8 KB)
+0045.857 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.4 MB, 187 (2639) files added so far); re-opening (prior size: 13288.8 KB)
+0047.228 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 2700 files added (on-disk size: 13731.2 KB)
+0048.891 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 MB, 127 (2766) files added so far); re-opening (prior size: 13731.2 KB)
+0051.297 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 2800 files added (on-disk size: 14149.9 KB)
+0051.882 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.6 MB, 51 (2817) files added so far); re-opening (prior size: 14149.9 KB)
+0054.184 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 2900 files added (on-disk size: 14337.5 KB)
+0054.851 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 127 (2944) files added so far); re-opening (prior size: 14337.5 KB)
+0056.081 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 3000 files added (on-disk size: 14643.2 KB)
+0057.467 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 3100 files added (on-disk size: 14643.2 KB)
+0057.851 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 178 (3122) files added so far); re-opening (prior size: 14643.2 KB)
+0059.162 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 3200 files added (on-disk size: 14976.3 KB)
+0059.969 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 3300 files added (on-disk size: 14976.3 KB)
+0060.857 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.3 MB, 274 (3396) files added so far); re-opening (prior size: 14976.3 KB)
+0061.782 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 3400 files added (on-disk size: 17146.2 KB)
+0063.858 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.5 MB, 83 (3479) files added so far); re-opening (prior size: 17146.2 KB)
+0064.855 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 3500 files added (on-disk size: 18013.2 KB)
+0066.852 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 63 (3542) files added so far); re-opening (prior size: 18013.2 KB)
+0070.038 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 50 (3592) files added so far); re-opening (prior size: 18227.9 KB)
+0071.000 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 3600 files added (on-disk size: 18434.9 KB)
+0072.344 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 3700 files added (on-disk size: 18434.9 KB)
+0072.854 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 MB, 163 (3755) files added so far); re-opening (prior size: 18434.9 KB)
+0073.754 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 3800 files added (on-disk size: 18822 KB)
+0074.713 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 3900 files added (on-disk size: 18822 KB)
+0075.800 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 4000 files added (on-disk size: 18822 KB)
+0075.846 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.4 MB, 248 (4003) files added so far); re-opening (prior size: 18822 KB)
+0078.019 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 4100 files added (on-disk size: 19499.1 KB)
+0078.857 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 152 (4155) files added so far); re-opening (prior size: 19499.1 KB)
+0080.365 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 4200 files added (on-disk size: 19939 KB)
+0081.753 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 4300 files added (on-disk size: 19939 KB)
+0081.852 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 149 (4304) files added so far); re-opening (prior size: 19939 KB)
+0083.862 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 4400 files added (on-disk size: 20141.7 KB)
+0084.856 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.3 MB, 181 (4485) files added so far); re-opening (prior size: 20141.7 KB)
+0085.536 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 4500 files added (on-disk size: 20577.2 KB)
+0087.149 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 4600 files added (on-disk size: 20577.2 KB)
+0087.854 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 167 (4652) files added so far); re-opening (prior size: 20577.2 KB)
+0089.044 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 4700 files added (on-disk size: 20773.5 KB)
+0090.030 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 4800 files added (on-disk size: 20773.5 KB)
+0090.926 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.7 MB, 202 (4854) files added so far); re-opening (prior size: 20773.5 KB)
+0092.179 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 4900 files added (on-disk size: 22335.4 KB)
+0094.423 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2 MB, 72 (4926) files added so far); re-opening (prior size: 22335.4 KB)
+0096.851 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2 MB, 47 (4973) files added so far); re-opening (prior size: 23271.8 KB)
+0097.939 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 5000 files added (on-disk size: 24959 KB)
+0098.536 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 5100 files added (on-disk size: 24959 KB)
+0099.175 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 5200 files added (on-disk size: 24959 KB)
+0099.757 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 5300 files added (on-disk size: 24959 KB)
+0099.848 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.7 MB, 341 (5314) files added so far); re-opening (prior size: 24959 KB)
+0101.272 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 5400 files added (on-disk size: 25715.3 KB)
+0102.041 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 5500 files added (on-disk size: 25715.3 KB)
+0102.845 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.1 MB, 282 (5596) files added so far); re-opening (prior size: 25715.3 KB)
+0103.521 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 5600 files added (on-disk size: 26781 KB)
+0104.251 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 5700 files added (on-disk size: 26781 KB)
+0104.869 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 5800 files added (on-disk size: 26781 KB)
+0105.427 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 5900 files added (on-disk size: 26781 KB)
+0105.847 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 380 (5976) files added so far); re-opening (prior size: 26781 KB)
+0106.485 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 6000 files added (on-disk size: 27097.4 KB)
+0107.177 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 6100 files added (on-disk size: 27097.4 KB)
+0107.721 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 6200 files added (on-disk size: 27097.4 KB)
+0108.340 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 6300 files added (on-disk size: 27097.4 KB)
+0108.859 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.2 MB, 387 (6363) files added so far); re-opening (prior size: 27097.4 KB)
+0110.038 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 6400 files added (on-disk size: 28773.9 KB)
+0110.878 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 6500 files added (on-disk size: 28773.9 KB)
+0111.898 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 169 (6532) files added so far); re-opening (prior size: 28773.9 KB)
+0113.722 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 6600 files added (on-disk size: 29304.9 KB)
+0114.253 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 6700 files added (on-disk size: 29304.9 KB)
+0114.855 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.7 MB, 215 (6747) files added so far); re-opening (prior size: 29304.9 KB)
+0116.816 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 6800 files added (on-disk size: 30709.7 KB)
+0117.881 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.7 MB, 132 (6879) files added so far); re-opening (prior size: 30709.7 KB)
+0119.215 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 6900 files added (on-disk size: 31400 KB)
+0120.851 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 116 (6995) files added so far); re-opening (prior size: 31400 KB)
+0121.509 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 7000 files added (on-disk size: 31713 KB)
+0124.124 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.3 MB, 85 (7080) files added so far); re-opening (prior size: 31713 KB)
+0125.240 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 7100 files added (on-disk size: 32078.5 KB)
+0126.422 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 7200 files added (on-disk size: 32078.5 KB)
+0126.921 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 142 (7222) files added so far); re-opening (prior size: 32078.5 KB)
+0128.731 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 7300 files added (on-disk size: 32306 KB)
+0129.851 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 155 (7377) files added so far); re-opening (prior size: 32306 KB)
+0130.833 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 7400 files added (on-disk size: 32544.3 KB)
+0132.097 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 7500 files added (on-disk size: 32544.3 KB)
+0132.849 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 MB, 183 (7560) files added so far); re-opening (prior size: 32544.3 KB)
+0134.088 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 7600 files added (on-disk size: 33201.4 KB)
+0135.345 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 7700 files added (on-disk size: 33201.4 KB)
+0135.846 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 178 (7738) files added so far); re-opening (prior size: 33201.4 KB)
+0137.193 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 7800 files added (on-disk size: 33456.1 KB)
+0138.658 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 7900 files added (on-disk size: 33456.1 KB)
+0138.848 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 179 (7917) files added so far); re-opening (prior size: 33456.1 KB)
+0141.537 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 8000 files added (on-disk size: 33683.4 KB)
+0141.847 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 99 (8016) files added so far); re-opening (prior size: 33683.4 KB)
+0143.803 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 8100 files added (on-disk size: 34055.6 KB)
+0144.853 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 146 (8162) files added so far); re-opening (prior size: 34055.6 KB)
+0145.984 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 8200 files added (on-disk size: 34178.1 KB)
+0147.149 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 8300 files added (on-disk size: 34178.1 KB)
+0147.855 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 226 (8388) files added so far); re-opening (prior size: 34178.1 KB)
+0148.883 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.tmp: 8400 files added (on-disk size: 34543.4 KB)
+0149.451 (0) Creating zip file manifest (backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.list-temp.tmp)
+0149.518 (0) Successfully created zip file manifest (size: 688343)
+0150.022 (0) Created plugins zip (0) - 34580.4 KB in 149.9 s (230.7 KB/s) (sha1: 7c2514b385e72614d675658ac5f70da07d13ae42, sha256: 632911d13d46fe05a44774907353d8555928f7961441f35860933da73d9c3a67)
+0150.041 (0) Beginning creation of dump of themes (split every: 400 MB)
+0150.397 (0) Total entities for the zip file: 111 directories, 543 files (0 skipped as non-modified), 25 MB
+0152.518 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0152.918 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (12.7 MB, 116 (116) files added so far); re-opening (prior size: 0 KB)
+0154.395 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-themes.zip.tmp: 200 files added (on-disk size: 3363.6 KB)
+0155.441 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-themes.zip.tmp: 300 files added (on-disk size: 3363.6 KB)
+0155.858 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5 MB, 241 (357) files added so far); re-opening (prior size: 3363.6 KB)
+0156.956 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-themes.zip.tmp: 400 files added (on-disk size: 6717.2 KB)
+0158.141 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-themes.zip.tmp: 500 files added (on-disk size: 6717.2 KB)
+0159.056 (0) Creating zip file manifest (backup_2022-06-29-1233_brift_consulting_19bf3049141d-themes.zip.list-temp.tmp)
+0159.071 (0) Successfully created zip file manifest (size: 36969)
+0159.261 (0) Created themes zip (0) - 13018.1 KB in 9.2 s (1413.5 KB/s) (sha1: 5763c38c916f46dc88982039f9c08872f2c66336, sha256: ba727defab446940d4cced4091f5584ce1307467ccc8ed3c0e6d563b31cdbe84)
+0159.282 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0159.290 (0) Looking for candidates to backup in: C:\Users\Ahmad\Local Sites\brift-consulting\app\public/wp-content/uploads
+0159.298 (0) finding files: 2020: adding to list (1)
+0159.306 (0) finding files: 2022: adding to list (2)
+0159.316 (0) finding files: demo_files: adding to list (3)
+0159.324 (0) finding files: elementor: adding to list (4)
+0159.335 (0) finding files: essential-addons-elementor: adding to list (5)
+0159.346 (0) finding files: revslider: adding to list (6)
+0159.357 (0) finding files: wpcf7_uploads: adding to list (7)
+0159.367 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0160.049 (0) Total entities for the zip file: 17 directories, 1242 files (0 skipped as non-modified), 60.8 MB
+0160.607 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0161.058 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0161.507 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0161.847 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (13.6 MB, 377 (377) files added so far); re-opening (prior size: 0 KB)
+0162.216 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-uploads.zip.tmp: 400 files added (on-disk size: 13884.3 KB)
+0162.727 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-uploads.zip.tmp: 500 files added (on-disk size: 13884.3 KB)
+0163.152 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-uploads.zip.tmp: 600 files added (on-disk size: 13884.3 KB)
+0163.544 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-uploads.zip.tmp: 700 files added (on-disk size: 13884.3 KB)
+0164.032 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-uploads.zip.tmp: 800 files added (on-disk size: 13884.3 KB)
+0164.393 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 1242 files batched, 496 (873) added so far); re-opening (prior size: 13884.3 KB)
+0164.855 (0) A useful amount of data was added after this amount of zip processing: 3 s (normalised: 3 s, rate: 8504 KB/s)
+0164.870 (0) Performance is good - will increase the amount of data we attempt to batch (time=3.0109429359436, normalised_time=3.0103651944239, max_time=164.86227917671, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0164.984 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-uploads.zip.tmp: 900 files added (on-disk size: 39543.8 KB)
+0165.523 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-uploads.zip.tmp: 1000 files added (on-disk size: 39543.8 KB)
+0165.978 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-uploads.zip.tmp: 1100 files added (on-disk size: 39543.8 KB)
+0166.439 (0) Zip: backup_2022-06-29-1233_brift_consulting_19bf3049141d-uploads.zip.tmp: 1200 files added (on-disk size: 39543.8 KB)
+0167.709 (0) Creating zip file manifest (backup_2022-06-29-1233_brift_consulting_19bf3049141d-uploads.zip.list-temp.tmp)
+0167.727 (0) Successfully created zip file manifest (size: 69473)
+0168.431 (0) Created uploads zip (0) - 57419.4 KB in 9 s (6347.5 KB/s) (sha1: e7049747f90dc315b48af9b35d525cbd0869b145, sha256: d98bee1b54e9a1011d2ca353d3b72f8c153a1316d77654c9f86901e781878e01)
+0168.443 (0) No backup of wpcore: excluded by user's options
+0168.459 (0) Beginning backup of other directories found in the content directory (index: 0)
+0168.467 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0168.475 (0) Looking for candidates to backup in: C:\Users\Ahmad\Local Sites\brift-consulting\app\public/wp-content
+0168.483 (0) finding files: fonts: adding to list (1)
+0168.496 (0) finding files: index.php: adding to list (2)
+0168.504 (0) finding files: plugins: skipping: this is the plugins directory
+0168.512 (0) finding files: themes: skipping: this is the themes directory
+0168.520 (0) finding files: updraft: skipping: this is the updraft directory
+0168.528 (0) finding files: upgrade: skipping: excluded by options
+0168.536 (0) finding files: uploads: skipping: this is the uploads directory
+0168.593 (0) Total entities for the zip file: 3 directories, 18 files (0 skipped as non-modified), 0.2 MB
+0168.745 (0) Creating zip file manifest (backup_2022-06-29-1233_brift_consulting_19bf3049141d-others.zip.list-temp.tmp)
+0168.753 (0) Successfully created zip file manifest (size: 1262)
+0168.783 (0) Created others zip (0) - 181.5 KB in 0.2 s (796.8 KB/s) (sha1: a69a12c545eda8d617fbd980887ddd195a56acee, sha256: 1dd6fe2a85bff5eea1417547e0fd22b1932e7f38f4ff0b14836850338c158f33)
+0168.793 (0) No backup of more: excluded by user's options
+0168.827 (0) Saving backup status to database (elements: 8)
+0168.843 (0) Beginning creation of database dump (WordPress DB)
+0168.854 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0168.932 (0) Table wp_options: Total expected rows (via COUNT): 406
+0168.939 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0169.037 (0) Table wp_options: Rows added in this batch (next record: 3619): 402 (uncompressed bytes in this segment=2373576) in 0.13 seconds
+0169.078 (0) Table wp_options: finishing file(s) (2, 248.1 KB)
+0169.105 (0) Table wp_users: Total expected rows (via COUNT): 1
+0169.113 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0169.131 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1391) in 0.03 seconds
+0169.161 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0169.202 (0) Table wp_usermeta: Total expected rows (via COUNT): 28
+0169.210 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0169.229 (0) Table wp_usermeta: Rows added in this batch (next record: 28): 28 (uncompressed bytes in this segment=3264) in 0.04 seconds
+0169.270 (0) Table wp_usermeta: finishing file(s) (2, 1.4 KB)
+0169.306 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0169.324 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=685) in 0.03 seconds
+0169.367 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0169.398 (0) Table wp_comments: Total expected rows (via COUNT): 2
+0169.408 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0169.428 (0) Table wp_comments: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=2553) in 0.03 seconds
+0169.462 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0169.511 (0) Table wp_links: Total expected rows (via COUNT): 0
+0169.533 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1310) in 0.05 seconds
+0169.565 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0170.100 (0) Table wp_postmeta: Total expected rows (approximate): 8767
+0171.984 (0) Table wp_postmeta: Rows added in this batch (next record: 12573): 10581 (uncompressed bytes in this segment=28695360) in 2.39 seconds
+0172.032 (0) Table wp_postmeta: finishing file(s) (2, 2073.4 KB)
+0172.303 (0) Table wp_posts: Total expected rows (approximate): 1572
+0173.249 (0) Table wp_posts: Rows added in this batch (next record: 3627): 1624 (uncompressed bytes in this segment=12777289) in 1.19 seconds
+0173.288 (0) Table wp_posts: finishing file(s) (2, 1028.2 KB)
+0173.314 (0) Table wp_term_relationships: Total expected rows (approximate): 94
+0173.335 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 97 (uncompressed bytes in this segment=2169) in 0.02 seconds
+0173.367 (0) Table wp_term_relationships: finishing file(s) (2, 0.7 KB)
+0173.404 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 30
+0173.415 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0173.445 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 30): 30 (uncompressed bytes in this segment=1967) in 0.05 seconds
+0173.514 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.7 KB)
+0173.580 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0173.608 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=658) in 0.05 seconds
+0173.676 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0173.714 (0) Table wp_terms: Total expected rows (via COUNT): 30
+0173.723 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0173.746 (0) Table wp_terms: Rows added in this batch (next record: 30): 30 (uncompressed bytes in this segment=1730) in 0.04 seconds
+0173.777 (0) Table wp_terms: finishing file(s) (2, 0.7 KB)
+0173.820 (0) Table wp_e_events: Total expected rows (via COUNT): 1
+0173.828 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0173.846 (0) Table wp_e_events: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=790) in 0.04 seconds
+0173.883 (0) Table wp_e_events: finishing file(s) (2, 0.5 KB)
+0173.911 (0) Table wp_e_submissions: Total expected rows (via COUNT): 0
+0173.929 (0) Table wp_e_submissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=2282) in 0.02 seconds
+0173.960 (0) Table wp_e_submissions: finishing file(s) (2, 0.7 KB)
+0173.996 (0) Table wp_e_submissions_actions_log: Total expected rows (via COUNT): 0
+0174.005 (0) Table wp_e_submissions_actions_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1251) in 0.02 seconds
+0174.042 (0) Table wp_e_submissions_actions_log: finishing file(s) (2, 0.5 KB)
+0174.134 (0) Table wp_e_submissions_values: Total expected rows (via COUNT): 0
+0174.143 (0) Table wp_e_submissions_values: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=724) in 0.08 seconds
+0174.183 (0) Table wp_e_submissions_values: finishing file(s) (2, 0.4 KB)
+0174.227 (0) Table wp_mc4wp_log: Total expected rows (via COUNT): 0
+0174.239 (0) Table wp_mc4wp_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1215) in 0.03 seconds
+0174.273 (0) Table wp_mc4wp_log: finishing file(s) (2, 0.5 KB)
+0174.308 (0) Table wp_revslider_css: Total expected rows (via COUNT): 109
+0174.313 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0174.330 (0) Table wp_revslider_css: Rows added in this batch (next record: 109): 109 (uncompressed bytes in this segment=91062) in 0.04 seconds
+0174.382 (0) Table wp_revslider_css: finishing file(s) (2, 4.9 KB)
+0174.424 (0) Table wp_revslider_css_bkp: Total expected rows (via COUNT): 47
+0174.432 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0174.454 (0) Table wp_revslider_css_bkp: Rows added in this batch (next record: 47): 47 (uncompressed bytes in this segment=15391) in 0.05 seconds
+0174.507 (0) Table wp_revslider_css_bkp: finishing file(s) (2, 1.8 KB)
+0174.551 (0) Table wp_revslider_layer_animations: Total expected rows (via COUNT): 0
+0174.591 (0) Table wp_revslider_layer_animations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=534) in 0.06 seconds
+0174.624 (0) Table wp_revslider_layer_animations: finishing file(s) (2, 0.3 KB)
+0174.663 (0) Table wp_revslider_layer_animations_bkp: Total expected rows (via COUNT): 0
+0174.672 (0) Table wp_revslider_layer_animations_bkp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=558) in 0.02 seconds
+0174.705 (0) Table wp_revslider_layer_animations_bkp: finishing file(s) (2, 0.3 KB)
+0174.744 (0) Table wp_revslider_navigations: Total expected rows (via COUNT): 2
+0174.753 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0174.770 (0) Table wp_revslider_navigations: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=2424) in 0.04 seconds
+0174.813 (0) Table wp_revslider_navigations: finishing file(s) (2, 1 KB)
+0174.858 (0) Table wp_revslider_navigations_bkp: Total expected rows (via COUNT): 2
+0174.867 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0174.876 (0) Table wp_revslider_navigations_bkp: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=2452) in 0.04 seconds
+0174.924 (0) Table wp_revslider_navigations_bkp: finishing file(s) (2, 1 KB)
+0174.965 (0) Table wp_revslider_sliders: Total expected rows (via COUNT): 1
+0174.974 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0174.984 (0) Table wp_revslider_sliders: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=9227) in 0.03 seconds
+0175.028 (0) Table wp_revslider_sliders: finishing file(s) (2, 3.1 KB)
+0175.079 (0) Table wp_revslider_sliders_bkp: Total expected rows (via COUNT): 1
+0175.088 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0175.097 (0) Table wp_revslider_sliders_bkp: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=8846) in 0.04 seconds
+0175.136 (0) Table wp_revslider_sliders_bkp: finishing file(s) (2, 3 KB)
+0175.170 (0) Table wp_revslider_slides: Total expected rows (via COUNT): 3
+0175.177 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0175.186 (0) Table wp_revslider_slides: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=35759) in 0.03 seconds
+0175.228 (0) Table wp_revslider_slides: finishing file(s) (2, 2.8 KB)
+0175.274 (0) Table wp_revslider_slides_bkp: Total expected rows (via COUNT): 3
+0175.282 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0175.292 (0) Table wp_revslider_slides_bkp: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=35610) in 0.04 seconds
+0175.329 (0) Table wp_revslider_slides_bkp: finishing file(s) (2, 2.8 KB)
+0175.364 (0) Table wp_revslider_static_slides: Total expected rows (via COUNT): 1
+0175.373 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0175.382 (0) Table wp_revslider_static_slides: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1568) in 0.03 seconds
+0175.422 (0) Table wp_revslider_static_slides: finishing file(s) (2, 0.6 KB)
+0175.467 (0) Table wp_revslider_static_slides_bkp: Total expected rows (via COUNT): 1
+0175.474 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0175.483 (0) Table wp_revslider_static_slides_bkp: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1596) in 0.04 seconds
+0175.520 (0) Table wp_revslider_static_slides_bkp: finishing file(s) (2, 0.6 KB)
+0175.532 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_options.table.tmpr3620.gz (1/29/fopen): adding to final database dump
+0175.556 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_options.table.gz (2/29/fopen): adding to final database dump
+0175.569 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_users.table.tmpr2.gz (3/29/fopen): adding to final database dump
+0175.577 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_users.table.gz (4/29/fopen): adding to final database dump
+0175.585 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_usermeta.table.tmpr29.gz (5/29/fopen): adding to final database dump
+0175.593 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_usermeta.table.gz (6/29/fopen): adding to final database dump
+0175.601 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_commentmeta.table.tmpr0.gz (7/29/fopen): adding to final database dump
+0175.609 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_commentmeta.table.gz (8/29/fopen): adding to final database dump
+0175.617 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_comments.table.tmpr3.gz (9/29/fopen): adding to final database dump
+0175.626 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_comments.table.gz (10/29/fopen): adding to final database dump
+0175.634 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_links.table.tmpr0.gz (11/29/fopen): adding to final database dump
+0175.642 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_links.table.gz (12/29/fopen): adding to final database dump
+0175.650 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_postmeta.table.tmpr12574.gz (13/29/fopen): adding to final database dump
+0175.761 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_postmeta.table.gz (14/29/fopen): adding to final database dump
+0175.769 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_posts.table.tmpr3628.gz (15/29/fopen): adding to final database dump
+0175.830 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_posts.table.gz (16/29/fopen): adding to final database dump
+0175.838 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_term_relationships.table.tmpr100001.gz (17/29/fopen): adding to final database dump
+0175.848 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_term_relationships.table.gz (18/29/fopen): adding to final database dump
+0175.856 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_term_taxonomy.table.tmpr31.gz (19/29/fopen): adding to final database dump
+0175.865 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_term_taxonomy.table.gz (20/29/fopen): adding to final database dump
+0175.873 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_termmeta.table.tmpr0.gz (21/29/fopen): adding to final database dump
+0175.882 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_termmeta.table.gz (22/29/fopen): adding to final database dump
+0175.892 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_terms.table.tmpr31.gz (23/29/fopen): adding to final database dump
+0175.902 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_terms.table.gz (24/29/fopen): adding to final database dump
+0175.913 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_e_events.table.tmpr2.gz (25/29/fopen): adding to final database dump
+0175.923 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_e_events.table.gz (26/29/fopen): adding to final database dump
+0175.933 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_e_submissions.table.tmpr0.gz (27/29/fopen): adding to final database dump
+0175.943 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_e_submissions.table.gz (28/29/fopen): adding to final database dump
+0175.951 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_e_submissions_actions_log.table.tmpr0.gz (29/29/fopen): adding to final database dump
+0175.959 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_e_submissions_actions_log.table.gz (30/29/fopen): adding to final database dump
+0175.967 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_e_submissions_values.table.tmpr0.gz (31/29/fopen): adding to final database dump
+0175.976 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_e_submissions_values.table.gz (32/29/fopen): adding to final database dump
+0175.987 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_mc4wp_log.table.tmpr0.gz (33/29/fopen): adding to final database dump
+0175.996 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_mc4wp_log.table.gz (34/29/fopen): adding to final database dump
+0176.004 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_revslider_css.table.tmpr110.gz (35/29/fopen): adding to final database dump
+0176.013 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_revslider_css.table.gz (36/29/fopen): adding to final database dump
+0176.021 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_revslider_css_bkp.table.tmpr48.gz (37/29/fopen): adding to final database dump
+0176.029 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_revslider_css_bkp.table.gz (38/29/fopen): adding to final database dump
+0176.037 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_revslider_layer_animations.table.tmpr0.gz (39/29/fopen): adding to final database dump
+0176.048 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_revslider_layer_animations.table.gz (40/29/fopen): adding to final database dump
+0176.056 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_revslider_layer_animations_bkp.table.tmpr0.gz (41/29/fopen): adding to final database dump
+0176.065 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_revslider_layer_animations_bkp.table.gz (42/29/fopen): adding to final database dump
+0176.079 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_revslider_navigations.table.tmpr3.gz (43/29/fopen): adding to final database dump
+0176.091 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_revslider_navigations.table.gz (44/29/fopen): adding to final database dump
+0176.100 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_revslider_navigations_bkp.table.tmpr3.gz (45/29/fopen): adding to final database dump
+0176.109 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_revslider_navigations_bkp.table.gz (46/29/fopen): adding to final database dump
+0176.117 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_revslider_sliders.table.tmpr2.gz (47/29/fopen): adding to final database dump
+0176.126 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_revslider_sliders.table.gz (48/29/fopen): adding to final database dump
+0176.138 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_revslider_sliders_bkp.table.tmpr2.gz (49/29/fopen): adding to final database dump
+0176.152 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_revslider_sliders_bkp.table.gz (50/29/fopen): adding to final database dump
+0176.160 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_revslider_slides.table.tmpr4.gz (51/29/fopen): adding to final database dump
+0176.171 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_revslider_slides.table.gz (52/29/fopen): adding to final database dump
+0176.179 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_revslider_slides_bkp.table.tmpr4.gz (53/29/fopen): adding to final database dump
+0176.195 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_revslider_slides_bkp.table.gz (54/29/fopen): adding to final database dump
+0176.203 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_revslider_static_slides.table.tmpr2.gz (55/29/fopen): adding to final database dump
+0176.211 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_revslider_static_slides.table.gz (56/29/fopen): adding to final database dump
+0176.219 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_revslider_static_slides_bkp.table.tmpr2.gz (57/29/fopen): adding to final database dump
+0176.228 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db-table-wp_revslider_static_slides_bkp.table.gz (58/29/fopen): adding to final database dump
+0176.260 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db.gz: finished writing out complete database file (3380.6 KB)
+0176.348 (0) Total database tables backed up: 29 (backup_2022-06-29-1233_brift_consulting_19bf3049141d-db.gz, size: 3461802, sha1: 7a4e05d3c76e13139dc3ce5cdfb779eadd6aa414, sha256: 774282dba40e488f1f799fb3627d2e3fd63aebb1e7371c6a373375a9fe9aa25a)
+0176.385 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0176.393 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0176.401 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0176.408 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-others.zip: others: This file has not yet been successfully uploaded: will queue
+0176.416 (0) backup_2022-06-29-1233_brift_consulting_19bf3049141d-db.gz: db: This file has not yet been successfully uploaded: will queue
+0176.424 (0) Saving backup history. Total backup size: 106 MB
+0176.443 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0176.467 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0176.475 (0) No remote despatch: user chose no remote backup service
+0176.484 (0) Recording as successfully uploaded: backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip
+0176.500 (0) Deleting zip manifest (backup_2022-06-29-1233_brift_consulting_19bf3049141d-plugins.zip.list.tmp)
+0176.508 (0) Recording as successfully uploaded: backup_2022-06-29-1233_brift_consulting_19bf3049141d-themes.zip
+0176.525 (0) Deleting zip manifest (backup_2022-06-29-1233_brift_consulting_19bf3049141d-themes.zip.list.tmp)
+0176.533 (0) Recording as successfully uploaded: backup_2022-06-29-1233_brift_consulting_19bf3049141d-uploads.zip
+0176.552 (0) Deleting zip manifest (backup_2022-06-29-1233_brift_consulting_19bf3049141d-uploads.zip.list.tmp)
+0176.570 (0) Recording as successfully uploaded: backup_2022-06-29-1233_brift_consulting_19bf3049141d-others.zip
+0176.591 (0) Deleting zip manifest (backup_2022-06-29-1233_brift_consulting_19bf3049141d-others.zip.list.tmp)
+0176.599 (0) Recording as successfully uploaded: backup_2022-06-29-1233_brift_consulting_19bf3049141d-db.gz
+0176.628 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0176.638 (0) Number of backup sets in history: 1; groups (db): 1
+0176.646 (0) Examining (for databases) backup set with group_id=0, nonce=19bf3049141d, datestamp=1656506002 (Jun 29 2022 12:33:22)
+0176.654 (0) This backup set is the backup set just made, so will not be deleted.
+0176.654 (0) Number of backup sets in history: 1; groups (files): 1
+0176.662 (0) Examining (for files) backup set with nonce=19bf3049141d, datestamp=1656506002 (Jun 29 2022 12:33:22)
+0176.662 (0) This backup set is the backup set just made, so will not be deleted.
+0176.670 (0) This backup set is the backup set just made, so will not be deleted.
+0176.670 (0) This backup set is the backup set just made, so will not be deleted.
+0176.671 (0) This backup set is the backup set just made, so will not be deleted.
+0176.671 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0176.678 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0176.699 (0) Resume backup (19bf3049141d, 0): finish run
+0176.721 (0) Decremented the semaphore (fd) by 1
+0176.736 (0) Semaphore (fd) unlocked
+0176.745 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0176.771 (0) No email will/can be sent - the user has not configured an email address.
+0176.779 (0) The backup apparently succeeded and is now complete
